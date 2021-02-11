@@ -1,0 +1,37 @@
+
+svg{
+    margin-left:60px;
+ 
+}
+
+
+#hour{
+    stroke: rgb(71, 71, 71);
+    stroke-width: 3px;
+}
+
+#minute{
+    stroke:rgb(71, 71, 71);
+    stroke-width: 2px;
+    
+}
+
+#second{
+    stroke:rgb(86, 86, 86);
+    stroke-width: 1px;
+    
+}
+#second_tail{
+    stroke:black;
+    stroke-width: 1px;
+    
+}
+
+/*change this */
+feImage{
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+
+}
